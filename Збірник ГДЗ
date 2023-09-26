@@ -1,0 +1,66 @@
+<html>
+    <title>Збірник ГДЗ</title>
+    <body style="background:Bisque; font-family:MerriWeather;">
+        <h1 style="text-align:center">Збірник ГДЗ </h1>
+        <header style="border-radius:15px;background:darkKhaki;">
+        <p style="text-align:center; font-size: 18px"> Як ми усі знаємо найпотрібнішим знаряддям у навчанні є ГДЗ. Тому ми підготували для Вас збірник найпоширеніших сайтів,які Вам обов'язково знадобляться протягом шкільних років. </p>
+        </header>
+        <h2 style="border-radius:15px;background:DarkGoldenRod;text-align:center; font-size: 18px"> Ми розділили їх за категоріями,аби вам було легше знайти потрібне:
+        <p><a href="#По усіх предметах" style="color:DarkMagenta"> ГДЗ по всіх предметах</a></p>
+        <p><a href="#Програми" style="color:DarkRed">Програми</a></p>
+        <p><a href="#Таблиця" style="color:navy">Таблиця</a></p>
+        </h2>
+         <h2 id="По усіх предметах" style="color:DarkMagenta">Почнемо із найрозповсюдженіших сайтів:
+             <p style="font-size:10px"><a href="https://vshkole.com/">В ШКОЛЕ</a></p>
+             <p style="font-size:10px"><a href="https://4book.org/gdz-reshebniki-ukraina" style="font-size:15px">4book</a></p>
+             <p style="font-size:10px"><a href="https://gdzonline.net/" >Gdzonline</a></p>
+             <p style="font-size:10px"><a href="https://shkola.in.ua/">Shkola.in.ua</a></p>
+             <p style="font-size:10px"> <a href="https://gdz.org.ua/">GDZ</a></p>
+         </h2>
+         <p style="background-color:black; font-size:1.5px">.</p>
+         <h3 id="Програми" style="color:DarkRed">Також є варіанти програм як і по конкретному предмету,так і загальні:
+              <p style="font-size:10px"><a href="https://znanija.com/">Znanija</a></p>
+              <p style="font-size:10px"><a href="https://www.mathway.com/ru/Algebra">Mathway</a></p>
+              <p style="font-size:10px"><a href="https://photomath.com/ru">Photomath</a></p>
+              <p style="font-size:10px"><a href="https://www.chemicalaid.com/?hl=ru">Chemicalaid</a></p>
+            
+         </h3>
+        <table id="Таблиця" style="border:2px solid navy; background-color:Gainsboro; ">
+            <tr style="border:1px solid navy;">
+                <td style="border:1px solid navy;">Предмет</td>
+                <td style="border:1px solid navy;">Сайт</td>
+            </tr>
+            <tr>
+                <td rowspan="5" style="border:1px solid navy;">ГДЗ</td>
+                <td style="border:1px solid navy;"><a href="https://gdzonline.net/"><img src="https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gdzonline.net&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URLg" width="30px" height="30px"></a></td>
+            </tr>
+            <tr>
+                <td style="border:1px solid navy;"><a href="https://4book.org/gdz-reshebniki-ukraina"><img src="https://www.apkonline.net/imagescropped/4bookgdztextbooksandanswerkeysofukraineicon128.jpgplus.webp" width="30px" height="30px"/></a></td>
+            </tr>
+            <tr>
+                <td style="border:1px solid navy;"><a href="https://vshkole.com/"><img src="https://static-s.aa-cdn.net/img/gp/20600006419976/eysLWzv9d6LWtKTQtkF6be2nADHlFoTywWaP-60gtLyb-HJBxE4BxaI7UoJXk8bh?v=1" width="30px" height="30px"/></a></td>
+            </tr>
+            <tr>
+                <td style="border:1px solid navy;"><a href="https://shkola.in.ua"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAnFBMVEUha/8fav9LgdBGf9UqcPS+vVOvtWMnbvgydOwucvAeaf9Shcnu1h7l0ihFfthvlKodaf9mj7P02Rfx2BpWh8VaicHBv09ylqb42xPezi9jjbdcir5fi7u4ulnq1CI5eOTQxz/j0Sp7mpyXqX13mKGJoY2GoJBBfNvYyzY0dek7eeKfrXSMo4gaZ/+SpoOosmt/nJestGfJw0abq3nAoBQ2AAABp0lEQVR4AXWThYKEIBBAGVvEAmNYe5Pt+v9/O70+3Hsmw6OB/AUME8gLvoOW7bh6bMLzP5I0YGEEH/me/5NPYzt4DycpFxklE3mR028hKVEu4ENgH0Ic8uqPgHKqg9acBWMc6hDFX6FpCw8IzUVrAoGuH2xNWK5wDV+dhA1uN1oT691QWASMdtgBeL3ab3WBOGPlYLbyADQTx2RWAz3hgkIUyg6mFs8z4Tw+yYdAN6M7Fyp+gakPByBHZswFarbXcR5Ea1C3GQ4vhL203eSGPE78vvfnnUyyQXnEQTzCYVDGTCgD2d69neyV2ncNU6Y+D82DpS5s8XbCEtxSFIUmMC4P54NSBzN8eGczFExbi80Fr/kVt0AuuKoc3K70TvpXJpBvfG+FXLRPa7YW1A0aVKx4tArvhpvMZzKBexvcuCgrsTons7U4LtK0b9frUMY3UaTp4v5HiIVgjHEUjPOpK2NCsPxHgK4aGQexSqVaXPGZT0mP/AB0IhfXvXp4zbheE2SG1bC1eizF1SWvgWAIWduqCMh/RioRVQ7kXyB42Nrx1qCHTuvcG5yOMhmhF0T4AAAAAElFTkSuQmCC" width="30px" height="30px"/></a></td>
+            </tr>
+            <tr>
+                <td style="border:1px solid navy;"><a href="https://gdz.org.ua/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEVHcEwSjrASjrASjrASjrASjrASjrASjrASjrASjrASjrASjrASjrASjrASjrASjrCCj7TuAAAAD3RSTlMAXcMi8d6hkmpGfgmyMxcI0eZlAAAA5UlEQVQ4ja2SywLEEAxFEY9Q2v//2yFMRdjN3FW5kcdJlfqvQIdsTE7xPtvBPkNOH3x87SZ/Sd8Px444L/xAtwYLQOyxaxVNd2nkTRTM/du1K3zPph35KFQgiIRRJHDAJs5VUTxgCTZ5kXFTq2DPeHvFbSqhMlu4kv+KgcIJAeZCJpUOrvcYX9+ypglToU/tmigAjgGqbaNzY/tOAkNpjWQ2BYFM4szBSg5BDDG2K5a9kKecdpCBIIeordMbaxJiyh2VWX/a4p5VrqhVYLhtw/bT1z7MWEOtBLvdGikaEXWEw+tf9AHhQBC1IrdVywAAAABJRU5ErkJggg==" width="30px" height="30px"/></a></td>
+            </tr>
+            <tr>
+                <td style="border:1px solid navy;">Хімія</td>
+                <td style="border:1px solid navy;"><a href="https://www.chemicalaid.com/?hl=ru"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABnlBMVEVHcEy+TQuBgQSNawCSkirZ2bQBcXERHAlQJxB6egKAgAF+fgCAgAC9vYSlSgDJwcPLXBkgkZFDREXLUQINhQ0Aej0ABgyXOwC0RwCIMgCJiRJsagCbZACAfAWSe3LKWxXgYg0ANAACCAEDFwIDGQIAAAA/nT8AfADNZiTYiVYAgYGiUCFLpqYAeHeAgAOpqV/HTgB7eQeOWjdzY1oAdQCdnJwAfn6Kioqelp4njidarFq+voXIbTQeGxtYWVmLNgCBNACVPgjn58w4LS1EHACAgADHTwADAgF9fQDhnnHkp3/flGLNzZ7ci1hkYl/e3rzo6NDw8N4EgYGLx8fXfUHT06W/v4Sjo0S6unPX167h4cVqa23hl2d5enrch02939+pRwmJiRLKypW/v3ynp0/Gxou+TQSn06f9/fbMbjJ5PBQlKCmurluPjx56egCamjm0tGb19evOkGZIUyq6dUlMnUx5vnk1GQw8c3NLUlNTWFhrVkhfq1+gl6BfsV9nl2fF4sWNjY17vb16v78zlZWCfl+ez88ALi5eRjguMjDb7kE/AAAARXRSTlMAUvYR/v4+GggtfmbMzh47+ov6+fwY8/X+fdVAXkNdrDJDace116W5mZGo+v1XrsfQt/7lUdht13ajnIfF4tHMr5Hq/uEPVwtZAAAB30lEQVQ4jWNggANp3jB9dgbcQNo/INInH48CXn+f1IhEbtwKInySC8I9uHArkEoJZ/Fw5cStQNbDw8PVEM510LbhQ1fBw1KsAuPYJ8TF+HKgG8If7Q5lcUhol3h7aWJYY+quBGVlubtjU8AvpKrACLLazt1d29tTASbOrmYpCmEZu0u4uRnwx7q7OwoLMMLl09PrRMAs+SKxLAE3N4FsMRT3WTWUlRarKCmyM3p6VrvHubm5iaParJZeVl/bGOsnVOLlWWQUlwlUgapAsaZURMTCPDY6xsvT2zckxM0tjRlVhYm6OsiRcjAFaQkYQQQBviAFfp0SCeLY5RnkgQriKqvKxSVxKJDL9Irx7YjNdsEhzx5dnhZSkuXn54415bGJClWqMjBKSmb7tfpE+vCipQzdlqD2aFswUywqIzAqMpUFJfWxNwVXOFfpgtlOGYEBrEnJ+R7IZgjGB1f4BWmBmNZAef/QsBwWDx4UBW3NOhAFrIVAC5IiwhNdXZFdGB8frBPEBmRx+BcG+Psk57C4uroiJ0rB4OAgM7BrWAOjQlMLQAa4osQIOxs0/MOALoxIyQXKI1uBBKRCQ8NScj2A8jgyEWeeRx5I2pUJuzwDA7crGDAx41LAwKnH5MoDMx8AlOBnjnmUv7wAAAAASUVORK5CYII=" width="30px" height="30px"/></a></td>
+            </tr>
+            <tr>
+                <td rowspan="2" style="border:1px solid navy;">Матем</td>
+                <td style="border:1px solid navy;"><a href="https://photomath.com/ru"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADE0lEQVR4AdWWA4weURSFG9a2bbdr1bZt27atuLZtd23btq1fp3dusvburJJ8g5d5c8/lTA3dekpNietEPIEKIoV4RLQXBJwlJAQqGDnxUBDgRaCSSBQERBCoLKqJgLpDoddApSRk7Cu7AL1GqvDccxkRH/4i4v2f4kHP+l24A4NWOoKIMgigzYbtRiDR3h1QKCCJiYckOq5IFBIp0sOjYT50Nv7VGVJGAe1HIsnZC0kuXrDSXgLzwbNgPmR2wSjNQfRPY0hJrIXSXPyrLYYAMp5g7QyDFtr0wsHsVX6QMd4T/vonpLHlIaD1MOjWGYp/tQbnCG3GGue7gTLC3/wCC1AWW0BLbZj2ngzP/VdhM2Y1GyYh7KnXweuwVF/Ie1xWHYHf+Tsw7jKWnxFRgA6MOo1GnKkdEu3cYNxtPPSbaSLyix5S/YI5/zkik9GS9ZVFSwGH2mH2dkgTkuB79hZc1x2HLDkFHrsvCcbZmOe+K4j8pEst+ZfPXgeucWpEEcBDqZEaQh5+4EpPD4tEjJ4Ft2tGDQTfe0c1kABJZCyf6VmOhFgCuLAsVOYhLSQC8pQ0OMzcxpHJ2GfceSzM+k+Dab9pfKZ7XhdRwGBYj1rJHirSJXBecYjXMvYJ88B23FrYjF3DZ/Ohcyg1IrahQQstRH7WRVpgGJLdfJBg6wqT7hO4BoQUhD3/xpOTxPE5/NUP0VLAoXZdewxceDsvwmHWNi5Iv/O3eQ8VIUck4Ppj+F99iIAbj7ktaV2cOWDScyISHdwRq2/JhafXUJWLLJ3qwUpnSY42zJiOFDXx5oBx13FwXLiH8jxLeDFj0mMCnGjNbOAMYR+3XdizryR2UoZx8YqQvco5ivk57gJaK9dRrN9ciwwNYmMFQiLE/xg5eyHF0x8Oc3bAbtKGwpmyEbEGVpDExIkUgbbDkWDjAgBQSGWEtEgAID00kv8dyvRDQnD/Oi3aC/9rD6mtikfAtUdw23SaP1S6dUX4KaUwlorK/i2vPgJcK1FAjCBgN5FcCcYlxDVBQF1iL+FORFUA0YQvcYZo+h9MJ/CyQcvzPwAAAABJRU5ErkJggg==" width="30px" height="30px"/></a></td>
+            </tr>
+            <tr>
+                <td style="border:1px solid navy;"><a href="https://www.mathway.com/ru/Algebra"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEBElEQVR4Ab1VA4ydQRh8sXWpg9oN6jaozbANayuqbduKatu2reOz39m+6c72/u3+pxxe7iXzY3dmvln8+yyxS5ZECGwXSBZALSG5uGYEA+wQyBVALYM1dzBAompcurQiVN688j6JFvWyeDGCly4h/edPpH3/Xho/fsB/9ix55RZmn//cOXLL9KA3a+gepgApb9+iol+O3w/75s3kllncvmULcgKBiixYo/wAycUBioqK/qOw0PSe8PBhuQHYV5GWv+SqBCjMz0eW04nCggL5Tou8pCQ4d+2SfF3r3LkTeYmJ5EguNVkOBz1qFiB04wayPR5lzHvyq1f6ZuIz23QONdTWIAAhRuE7cQKh69c5nco8Pz0d7oMHEbtokYTrwAHkp6WpAOQGr12jlh41DHDyJGzr1pWahdQvXxC3fDnili1D6qdP5tG73dRQG54AMQsWcESmWSjIzobn+HF4jh5FQVaWefRXrlATxgALF8K2fj2yXS7TSDNjY5ERHa23ceNx9NSEMUDxWgcvX9YNOVpjVtTOD1y8SC414Q3Afuvatciy29WITeCMWK2wrllDbuUD6OdzihHAgBid79QpCsiR98CFC/9MAR383HgM61xq6aE46iTU/i8skXPngvgzZw4SHjxAQUaG/KQkUlLgOnQIf2bPhsGLFpuLZ31Berri8Tnt2zdEzZ9v8Kihlh4Gj96swVqKZ3nYogUkmjfHn3nzEH/mDEJi6kIifVB8xx9GjMDDZs0U50m7drCJpQidPk0eIZ/tYpM+ad+eHHKpoZYe9CKP3qyhOITlbv36IO7Uq4efEycicPgw/AcPSvj278eb3r1xp25dyeH9bf/+8O3bpzg6993AgTqXWrYrDr1Zg7WK64oADRqA4MvPSZMQOHIEfjF1hE+ccG/69FGCB02acG0VRwfb4sSaPmjaVA2IWnroHNZgv1G30gGI94MHK0MdOv/D0KHkhjUAp5NrymNX9XM6Y8Sm44lntPFuXb6cXGrCGKBOHXwYPlyuo+wTxT27d+Nl9+541bMnvHv2yDb2kfNRbD5qwhbgoVhX68qVppH+nj4d9xo1kvgzc6ZpZmyrVnEWwhOAO5kj0kfv3r4dzzt1Umv9vHNntqlZID6OHEltzQN8GjUKNo7eMBf3H+PHS41Cw4b4MWECOaZZ+DR6dI0C8BvmxqOJKu7ctAlPO3SQfE3LNvaRo8JTS49qBigNmn8dO9ZkoOu/jhlTvrZSASZPRvDYMRJL4+hR2MUR/Lh163IDPGrVihxyy/SgN2uUG4CHSKQ4qyPnzCmNuXPxbsAAXVxmCB7V5JbhQW/WKBUgUd9MFYKcyqDyPokMsF0gTwC1jFzWZoAIgR0CKbVYPJnFWfsv2S9zZjyvKiEAAAAASUVORK5CYII=" width="30px" height="30px"/></a></td>
+            </tr>
+            <tr>
+                <td style="border:1px solid navy;">Відповіді<img src=""></td>
+                <td style="border:1px solid navy;"><a href="https://znanija.com/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEwUNjgTMzZX4rFX265X2awdSkdY3a5X260KHigtcWJe67ofUEkBCRtW2qv///8AABYAAA0AAAFY368iNDlPyaBAQ01iZGw0hG4OICoqbFzq6+weT0dFr4319vbX2No9nH+ipKm0tbiMjpPLzM9Ju5XDxMey2uwWAAAADXRSTlMA1dcPUr1h7rn0FlLM+MeOPgAAAVJJREFUOI11U+mawyAIdLdH8rVVEY25zx7v/4hFm+5nunR+OgMMCEIIsc8zxSDLzyJgd2BIa21x76vLiQSHT0oVxX1qOieNgR/Kn0YpVUxV4wANAMiAo8hXzkbKIIW9qAhKkVHKfmqchC21ohZV5+rAvUPgQyVM8gIonfcOTCpI6mE9j4PW+uYNL5j1isEBI8BF/+GKjMCUxIzz46tA4jiWiD4ISsMJwEmsy1twyZukGWB00DrkBVTl5bHlSwSjegiD0CNrMsCDb4OCmwP9FhpEGQQDlwHkOJc+dqFnToBXvTqgNpgS4Ib3oFvPtbm6C/kl/92A5fJYFpr2ZmPSNqkHxDQ67NfHHFKO9rB2nahZina0a6a+UJn4hS1Fo+oqomw8E5WL47uYQai7purjnSi7XtNeUApjZKSKQlm7PcQD3ebpUvX3/9SL38X7Pn87f8ovniQ0PJaDSyawAAAAAElFTkSuQmCC" width="30px" height="30px"/></a></td>
+            </tr>
+        </table>
+    </body>
+</html>
